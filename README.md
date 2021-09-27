@@ -1,5 +1,5 @@
 # World_Weather_Analysis
-#### Weather analysis and travel recommendation with maps and directions of +600 cities around the World.  
+#### Weather analysis and travel recommendation with maps and directions of +500 cities around the World.  
 
 
 ## Overview 
